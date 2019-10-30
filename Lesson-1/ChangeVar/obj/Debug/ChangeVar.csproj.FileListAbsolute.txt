@@ -1,0 +1,7 @@
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\bin\Debug\ChangeVar.exe.config
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\bin\Debug\ChangeVar.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\bin\Debug\ChangeVar.pdb
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\obj\Debug\ChangeVar.csprojAssemblyReference.cache
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\obj\Debug\ChangeVar.csproj.CoreCompileInputs.cache
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\obj\Debug\ChangeVar.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\ChangeVar\obj\Debug\ChangeVar.pdb

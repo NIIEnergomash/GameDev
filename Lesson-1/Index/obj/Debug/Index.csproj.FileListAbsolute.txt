@@ -1,0 +1,6 @@
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\bin\Debug\Index.exe.config
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\bin\Debug\Index.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\bin\Debug\Index.pdb
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\obj\Debug\Index.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\Index\obj\Debug\Index.pdb
