@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anketa", "Anketa\Anketa.csproj", "{EA7D5F56-4C5E-4632-AA0E-9334DB9AB028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeVar", "ChangeVar\ChangeVar.csproj", "{CFFD386D-91CE-46DE-B77C-77DC0418E77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index", "Index\Index.csproj", "{436C7119-2052-4D67-B7EA-209A8ED44F67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7D5F56-4C5E-4632-AA0E-9334DB9AB028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7D5F56-4C5E-4632-AA0E-9334DB9AB028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7D5F56-4C5E-4632-AA0E-9334DB9AB028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7D5F56-4C5E-4632-AA0E-9334DB9AB028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFD386D-91CE-46DE-B77C-77DC0418E77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFD386D-91CE-46DE-B77C-77DC0418E77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFD386D-91CE-46DE-B77C-77DC0418E77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFD386D-91CE-46DE-B77C-77DC0418E77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436C7119-2052-4D67-B7EA-209A8ED44F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436C7119-2052-4D67-B7EA-209A8ED44F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436C7119-2052-4D67-B7EA-209A8ED44F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436C7119-2052-4D67-B7EA-209A8ED44F67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C831E0A-C964-405B-AB43-7303404821F5}
+	EndGlobalSection
+EndGlobal

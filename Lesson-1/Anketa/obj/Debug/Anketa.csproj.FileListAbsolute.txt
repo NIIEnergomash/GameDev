@@ -1,0 +1,6 @@
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\bin\Debug\Anketa.exe.config
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\bin\Debug\Anketa.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\bin\Debug\Anketa.pdb
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\obj\Debug\Anketa.exe
+G:\Mail.Ru\GeekBrain\Lesson-1\Anketa\obj\Debug\Anketa.pdb
