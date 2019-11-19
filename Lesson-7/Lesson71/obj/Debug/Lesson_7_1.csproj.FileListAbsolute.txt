@@ -1,0 +1,16 @@
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\bin\Debug\Lesson_7_1.exe.config
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\bin\Debug\Lesson_7_1.exe
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\bin\Debug\Lesson_7_1.pdb
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\obj\Debug\Lesson_7_1.csprojAssemblyReference.cache
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\obj\Debug\Lesson_7_1.csproj.CoreCompileInputs.cache
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\obj\Debug\Lesson_7_1.exe
+C:\Users\Sk\source\repos\Csharp1\Lesson_7_1\obj\Debug\Lesson_7_1.pdb
+C:\Users\SDV\source\repos\Lesson_7_1\bin\Debug\Lesson_7_1.exe.config
+C:\Users\SDV\source\repos\Lesson_7_1\bin\Debug\Lesson_7_1.exe
+C:\Users\SDV\source\repos\Lesson_7_1\bin\Debug\Lesson_7_1.pdb
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.csproj.CoreCompileInputs.cache
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.exe
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.pdb
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.csproj.GenerateResource.cache
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.MainForm.resources
+C:\Users\SDV\source\repos\Lesson_7_1\obj\Debug\Lesson_7_1.csprojAssemblyReference.cache

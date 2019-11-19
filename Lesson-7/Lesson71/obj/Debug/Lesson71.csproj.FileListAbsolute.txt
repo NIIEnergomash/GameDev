@@ -1,0 +1,9 @@
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\bin\Debug\Lesson71.exe.config
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\bin\Debug\Lesson71.exe
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\bin\Debug\Lesson71.pdb
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.csprojAssemblyReference.cache
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.Properties.Resources.resources
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.csproj.GenerateResource.cache
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.csproj.CoreCompileInputs.cache
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.exe
+G:\Mail.Ru\GeekBrain\Lesson-7\Lesson71\obj\Debug\Lesson71.pdb
