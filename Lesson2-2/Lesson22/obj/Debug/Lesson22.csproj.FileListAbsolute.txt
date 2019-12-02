@@ -1,0 +1,16 @@
+C:\Users\SDV\source\repos\Lesson21\Lesson211\bin\Debug\Lesson211.exe.config
+C:\Users\SDV\source\repos\Lesson21\Lesson211\bin\Debug\Lesson211.exe
+C:\Users\SDV\source\repos\Lesson21\Lesson211\bin\Debug\Lesson211.pdb
+C:\Users\SDV\source\repos\Lesson21\Lesson211\obj\Debug\Lesson22.csprojAssemblyReference.cache
+C:\Users\SDV\source\repos\Lesson21\Lesson211\obj\Debug\Lesson211.Properties.Resources.resources
+C:\Users\SDV\source\repos\Lesson21\Lesson211\obj\Debug\Lesson22.csproj.GenerateResource.cache
+C:\Users\SDV\source\repos\Lesson21\Lesson211\obj\Debug\Lesson211.exe
+C:\Users\SDV\source\repos\Lesson21\Lesson211\obj\Debug\Lesson211.pdb
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\obj\Debug\Lesson22.csprojAssemblyReference.cache
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\obj\Debug\Lesson211.Properties.Resources.resources
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\obj\Debug\Lesson22.csproj.GenerateResource.cache
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\obj\Debug\Lesson211.exe
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\obj\Debug\Lesson211.pdb
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\bin\Debug\Lesson211.exe.config
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\bin\Debug\Lesson211.exe
+G:\Mail.Ru\GeekBrain\Lesson2-2\Lesson22\bin\Debug\Lesson211.pdb
